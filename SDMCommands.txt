@@ -1,0 +1,22 @@
+sudo apt update
+sudo apt install docker.io
+mkdir 
+cd
+gitclone 
+ls
+cd reponame
+sudo docker build -t imgname .
+* sudo systemctl status docker
+* sudo systemctl start docker
+sudo docker images
+sudo docker run -it -p myport:expressport imgname
+
+npm init
+npm install express
+
+init clone status add commit push
+
+
+git token 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
+
+
